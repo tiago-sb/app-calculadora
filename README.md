@@ -2,13 +2,28 @@
 Um projeto típico de desenvolvimento web moderno que incorpora uma variedade de tecnologias para criar uma experiência de usuário interativa.
 Faça os seus devidos calculos aritméticos e resolva seu problema de matemática aqui.
 
-## Tecnologias Utilizadas 📌
-<div align="center"><br>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">  
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4">
-    <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react">
-</div>
+## Tecnologias Utilizadas 
+> html
 
-## Créditos ✨
-- Tudo isso só foi possível com a [DIO](https://github.com/digitalinnovationone) e seu time de tutores que me deram auxílio e suporte para desenvolver este projeto, para eles vão os créditos dessa aplicação
+> css
+
+> javaScript
+
+> styled-components
+
+## Instalação
+### Baixar Código
+```
+git clone https://github.com/tiago-sb/app-calculadora.git
+```
+### Instalar Dependências
+```
+npm install
+```
+### Suba o Servidor da aplicação
+```
+npm start
+```
+
+## Demonstração
+![Captura de tela 2025-03-04 201821](https://github.com/user-attachments/assets/08bdd032-d5de-42a0-b40d-b2712103597c)
